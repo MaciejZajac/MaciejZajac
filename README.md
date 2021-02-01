@@ -15,7 +15,7 @@ https://github.com/MaciejZajac/social-server <br />
 
 Fullstack application written in React + Node.<br />
 Used technologies:<br />
-Backend: Node.js + Express.<br />
+Backend: Node.js + Express + mongoDB<br />
 Frontend: React, Context API, Ant.Design, styled-components<br />
 
 ### Languages and Tools:
