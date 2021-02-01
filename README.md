@@ -10,13 +10,13 @@
 
 ### Currently working on
 
-https://github.com/MaciejZajac/social-front
-https://github.com/MaciejZajac/social-server
+https://github.com/MaciejZajac/social-front <br />
+https://github.com/MaciejZajac/social-server <br />
 
-Fullstack application written in React + Node.
-Used technologies:
-Backend: Node.js + Express.
-Frontend: React, Context API, Ant.Design, styled-components
+Fullstack application written in React + Node.<br />
+Used technologies:<br />
+Backend: Node.js + Express.<br />
+Frontend: React, Context API, Ant.Design, styled-components<br />
 
 ### Languages and Tools:
 
