@@ -1,15 +1,4 @@
-### Hi there, I'm Maciej Zając
-
-- Currently looking for a company i can develop my skills in Frontend and Node
-
-### Connect with me:
-
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Currently working on
-
 https://github.com/MaciejZajac/social-front <br />
 https://github.com/MaciejZajac/social-server <br />
 
